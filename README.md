@@ -11,3 +11,8 @@
   </a>
 </div>
 
+<h1 align = "center">
+  Hi there! Welcome to VirtZone 
+  <img src = "https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif" width = "100px"/>
+</h1>
+
