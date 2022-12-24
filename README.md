@@ -19,3 +19,14 @@
 <div align = "center">
   <img src = "https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width = "800"/>
 </div>
+
+---
+
+### 👨‍💻 About Me:
+I am a Game Developer and a Web3 enthusiast
+- 🧑‍🎓 Currently a third-year student in BITS Pilani Goa Campus
+- 🌱 Exploring lot of sections in game dev from programming to art in games
+- ⚡ Most of my free time is spent on playing games and keeping up with latest game trends
+- 📪 Reach me out through LinkedIn or Discord(Username: Virtucious#1251)
+
+
