@@ -13,7 +13,7 @@
 
 <h1 align = "center">
   Hi there! Welcome to VirtZone 
-  <img src = "https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif" width = "100px"/>
+  <img src = "https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif" width = "100px" align = "center"/>
 </h1>
 
 <div align = "center">
