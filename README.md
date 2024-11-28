@@ -23,8 +23,8 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a Game Developer and a Web3 enthusiast
-- 🧑‍🎓 Currently in my final year at BITS Pilani Goa Campus
+I am a Game Developer and a Graphics Programming enthusiast
+- 🧑‍🎓 Graduated from BITS Pilani Goa Campus
 - 🌱 Exploring lot of sections in game dev from programming to art in games
 - ⚡ Most of my free time is spent on playing games and keeping up with latest game trends
 - 📪 Reach me out through LinkedIn or Discord(Username: Virtucious#1251)
